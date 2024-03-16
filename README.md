@@ -1,36 +1,35 @@
-# LEARNING JAVA - 4 PILLARS OF OOP
+# Four Pillars of OOP
 
-## PART 1: CLASS
+## Part 1 Class
 
-### CHALLENGE 1: REPRESENT EMPLOYEE
+### Represent Employee - Class
 
-- Create an Employee class
-- **Attributes:** name, age, salary, location
-- **Behavior:** raiseSalary (can have parameter or not)
+1. Create an Employee class
+2. **Attributes:** name, age, salary, location
+3. **Behavior:** raiseSalary (can have parameter or not)
 
 **Things to consider**: Static or Non-Static Members?
 
-- Create a main class for building Employee instances
-- Build two Employee instances
-- Give one Employee a raise
-- Display the salaries of both Employees
+4. Create a main class for building Employee instances
+5. Build two Employee instances
+6. Give one Employee a raise
+7. Display the salaries of both Employees
 
-[**IMPLEMENTATION OF CLASS - EMPLOYEE**](https://replit.com/@msoro/employee-class-challenge1#src/Main.java)
+[**Implementation Represent Employee - Class**](https://replit.com/@msoro/employee-class-challenge1#src/Main.java)
 
-## PART 2: ENCAPSULATION
+## Part 2 Encapsulation
 
-## CHALLENGE 2: BANK ACCOUNT
+## Bank Account - Encapsulation
 
-- Create Bank Account Class
-- **Attributes:** owner, balance
-- **Behavior:** withdraw, deposit, getter(owner or balance), setter
+1. Create Bank Account Class
+2. **Attributes:** owner, balance
+3. **Behavior:** withdraw, deposit, getter(owner or balance), setter
+4. Create constructor
+5. Test Bank Account Class
+6. Create a Main class that makes a Bank Account instance
+7. Withdraw a certain amount using the withdraw method
+8. Print out the resulting balance
 
-- Create constructor
-- Test Bank Account Class
-- Create a Main class that makes a Bank Account instance
-- Withdraw a certain amount using the withdraw method
-- Print out the resulting balance
+**Note:** The Bank Account attributes should not be directly accessible
 
-- **Note:** The Bank Account attributes should not be directly accessible
-
-[**IMPLEMENTATION OF ENCAPSULATION - BANK ACCOUNT**](https://replit.com/@msoro/banking-application-encapsulation-challenge2#src/Main.java)
+[**Implementation Bank Account - Encapsulation**](https://replit.com/@msoro/banking-application-encapsulation-challenge2#src/Main.java)
