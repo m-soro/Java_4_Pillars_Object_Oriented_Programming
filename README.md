@@ -33,3 +33,17 @@
 **Note:** The Bank Account attributes should not be directly accessible
 
 [**Implementation Bank Account - Encapsulation**](https://replit.com/@msoro/banking-application-encapsulation-challenge2#src/Main.java)
+
+## Part 3 Inheritance
+
+[Inheritance Person TO Employee TO Analyst AND Salesperson](https://replit.com/@msoro/Person-Employee-Analyst-Salesperson-Inheritance#src/Main.java)
+
+## Reduce Redundant Code with Inheritance
+
+1. Create a **ModArrayList** class
+2. Add a **getUsingMod** method that takes in an index and retrieves an item from the list at that index
+3. If the index is invalid, then the mod and absolute value operations should be used to make the index positive and mod the index based on the length of the list. If the index is negative turn it to positive.
+4. ModArrayList should have all the functionality of **ArrayList**
+5. Additional **getUsingMod**
+
+[Implementation Reduce Redundancy using Inheritance](https://replit.com/@msoro/Reduce-Redundancy-Inheritance#src/Main.java)
