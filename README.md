@@ -76,3 +76,25 @@
 5. After creating a contact instance, print it in the console.
 
 [Polymorphism Contacts Challenge 4](https://replit.com/@msoro/Polymorphism-Contacts-Challenge4#src/Main.java)
+
+## Part 5 Abstraction
+
+[Abstraction AbstractFileReader](https://replit.com/@msoro/Abstraction-AbstractFileReader#src/Main.java)
+
+[Abstraction Interface Event TimeStamp](https://replit.com/@msoro/Abstraction-Interface-Event-TimeStamp#src/Main.java)
+
+## Notes:
+
+![img](1.png)
+![img](2.png)
+![img](3.png)
+![img](4.png)
+![img](5.png)
+![img](6.png)
+![img](7.png)
+![img](8.png)
+![img](9.png)
+![img](10.png)
+![img](11.png)
+![img](12.png)
+![img](13.png)
